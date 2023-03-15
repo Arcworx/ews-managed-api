@@ -23,12 +23,15 @@
  * DEALINGS IN THE SOFTWARE.
  */
 
+//Only a marker
+
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Microsoft.Exchange.WebServices
+namespace Microsoft.Exchange.WebServices 
 {
     internal static class Strings
     {
