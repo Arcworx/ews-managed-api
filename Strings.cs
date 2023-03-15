@@ -23,7 +23,6 @@
  * DEALINGS IN THE SOFTWARE.
  */
 
-//Only a marker
 
 
 using System;
